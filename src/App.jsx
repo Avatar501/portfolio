@@ -14,7 +14,7 @@ const App = () => {
     {
       name: 'To Do List App',
       description: 'A simple To-Do List app where users can add, edit, and delete tasks with priorities and deadlines. It features notifications, a dark/light mode toggle, and a clean, modern design.',
-      images: ['/images/image2.png', '/images/image3.png', '/images/image1.png'],
+      images: ['/images/image2.jpg', '/images/image3.jpg', '/images/image1.jpg'],
       liveLink: 'https://Avatar501.github.io/ToDo',
       repoLink: 'https://github.com/Avatar501/ToDo',
     },
